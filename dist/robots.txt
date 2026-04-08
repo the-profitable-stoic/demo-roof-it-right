@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-roof-it-right.dream-surge.com/sitemap-index.xml

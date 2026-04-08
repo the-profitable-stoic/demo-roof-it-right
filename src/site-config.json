@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Roof It Right",
+    "phone": "+17027912475",
+    "category": "roofing contractor",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Vegas's Roofing Experts",
+      "heroSubline": "Durable roofs built to withstand the desert heat. Get a free estimate today!",
+      "aboutTitle": "Integrity Above All Else",
+      "aboutText": [
+        "Roof It Right started with a simple mission: provide honest, reliable roofing services to our Las Vegas neighbors. We saw too many fly-by-night operations cutting corners, leaving homeowners vulnerable to the harsh desert climate.",
+        "Our approach is straightforward: quality materials, skilled craftsmanship, and transparent communication. We treat every roof as if it were our own, ensuring lasting protection against the scorching sun, monsoon rains, and relentless dust storms.",
+        "We're invested in the Las Vegas community. We source materials locally whenever possible, support local charities, and provide ongoing training for our team to stay ahead of industry advancements. We're not just building roofs; we're building relationships."
+      ],
+      "valueProps": [
+        {
+          "title": "Desert-Tough Materials",
+          "description": "We use only the highest-grade roofing materials designed to withstand extreme heat, UV radiation, and monsoon rains."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our team of skilled roofers has years of experience and is committed to delivering flawless workmanship on every project."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront estimates with no hidden fees or surprises. You'll know exactly what to expect before we start."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique roofing challenges of the Las Vegas Valley and tailor our solutions to meet your specific needs."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation roofing estimate from Roof It Right."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for lasting protection.",
+        "description": "Is your roof showing its age? Leaks, missing shingles, or a worn-out appearance are all signs it may be time for a replacement. Roof It Right provides comprehensive roof replacement services, tailored to the unique demands of the Las Vegas climate. We start with a thorough inspection to assess the condition of your existing roof and identify any underlying issues. Then, we'll help you choose the best roofing materials for your home, considering factors like durability, energy efficiency, and aesthetic appeal. \n\nOur experienced team will carefully remove your old roof, ensuring proper disposal and minimal disruption to your property. We'll then install a new, high-quality roof with precision and attention to detail, using industry-leading techniques to ensure lasting performance. We handle all types of roofing materials, from traditional asphalt shingles to modern tile and metal roofing. \n\nWe understand that a roof replacement is a significant investment. That's why we offer flexible financing options and stand behind our work with a comprehensive warranty. Protect your home and your peace of mind with a roof replacement from Roof It Right.",
+        "process": [
+          "Step 1: Thorough roof inspection and assessment",
+          "Step 2: Material selection and customized quote",
+          "Step 3: Old roof removal and disposal",
+          "Step 4: New roof installation with quality control"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Long-lasting protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "Most roof replacements take between 3-5 days, depending on the size and complexity of the roof. We'll provide a detailed timeline during the estimate process."
+          },
+          {
+            "question": "What type of roofing material is best for Las Vegas?",
+            "answer": "Tile and metal roofs are excellent choices for Las Vegas due to their durability and heat resistance. Asphalt shingles are also a viable option, especially when using reflective or energy-efficient varieties."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to make roof replacement more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast and reliable roof repairs to stop leaks and prevent further damage.",
+        "description": "Don't let a minor roof issue turn into a major headache. Roof It Right provides prompt and professional roof repair services to address leaks, damaged shingles, and other common roofing problems in Las Vegas. Our experienced technicians will quickly diagnose the issue and provide an effective solution to restore the integrity of your roof. \n\nWe handle all types of roof repairs, from patching small leaks to replacing damaged sections of shingles or tiles. We use high-quality materials and proven techniques to ensure a lasting repair that blends seamlessly with your existing roof. We understand that roof repairs are often urgent, especially during monsoon season. That's why we offer 24/7 emergency repair services to protect your home from further damage. \n\nIgnoring even small roof problems can lead to significant water damage, mold growth, and costly repairs down the road. Don't wait until it's too late. Contact Roof It Right for a free inspection and reliable roof repair services.",
+        "process": [
+          "Step 1: Emergency leak detection and damage assessment",
+          "Step 2: Secure the area to prevent further water intrusion",
+          "Step 3: Repair or replace compromised materials",
+          "Step 4: Quality assurance inspection"
+        ],
+        "benefits": [
+          "Prevent further water damage",
+          "Extend the life of your roof",
+          "Maintain your home's value",
+          "Peace of mind knowing your roof is secure"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs include water stains on your ceiling, missing or damaged shingles, and visible leaks. If you notice any of these issues, it's important to call us for an inspection."
+          },
+          {
+            "question": "How much does a roof repair cost?",
+            "answer": "The cost of a roof repair depends on the extent of the damage and the type of materials needed. We'll provide a free, detailed estimate after inspecting your roof."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services to address urgent issues like leaks and storm damage."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems early.",
+        "description": "Protect your investment with a professional roof inspection from Roof It Right. Our certified inspectors will thoroughly assess the condition of your roof, identifying any potential problems before they become major issues. We'll examine your roof for signs of damage, wear and tear, and improper installation, providing you with a detailed report and recommendations for repair or maintenance. \n\nA roof inspection is especially important after a major storm, as high winds and hail can cause hidden damage that's not immediately visible. We also recommend regular roof inspections as part of your home maintenance routine, especially given the harsh Las Vegas climate. \n\nOur roof inspections include a comprehensive assessment of all roofing components, including shingles, flashing, gutters, and ventilation. We use advanced technology, such as drone photography, to get a clear view of hard-to-reach areas. With Roof It Right, you can rest assured that your roof is in good hands.",
+        "process": [
+          "Step 1: Schedule an inspection at your convenience",
+          "Step 2: Detailed roof inspection using advanced technology",
+          "Step 3: Comprehensive report with findings and recommendations",
+          "Step 4: Discuss repair and maintenance options"
+        ],
+        "benefits": [
+          "Identify potential problems early",
+          "Prevent costly repairs",
+          "Extend the life of your roof",
+          "Ensure your roof is properly maintained"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major storms."
+          },
+          {
+            "question": "What does a roof inspection include?",
+            "answer": "A roof inspection includes a thorough assessment of all roofing components, including shingles, flashing, gutters, and ventilation."
+          },
+          {
+            "question": "Do you use drones for roof inspections?",
+            "answer": "Yes, we use drones to get a clear view of hard-to-reach areas and identify potential problems that might not be visible from the ground."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning to protect your home from water damage.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. Roof It Right provides comprehensive gutter services, including installation, repair, and cleaning. We offer a variety of gutter styles and materials to complement your home's architecture and meet your specific needs. \n\nClogged or damaged gutters can cause water to overflow and damage your roof, siding, and foundation. Our experienced technicians will ensure your gutters are properly installed and maintained, preventing costly water damage. We also offer gutter cleaning services to remove leaves, debris, and other obstructions that can clog your gutters. \n\nDon't let clogged or damaged gutters compromise the integrity of your home. Contact Roof It Right for reliable gutter services.",
+        "process": [
+          "Step 1: Assess your gutter needs and provide options",
+          "Step 2: Expert gutter installation, repair, or cleaning",
+          "Step 3: Ensure proper water flow and drainage",
+          "Step 4: Clean up and debris removal"
+        ],
+        "benefits": [
+          "Prevent water damage to your home",
+          "Protect your roof, siding, and foundation",
+          "Maintain your home's value",
+          "Improve curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall."
+          },
+          {
+            "question": "What are the signs of damaged gutters?",
+            "answer": "Signs of damaged gutters include sagging, leaks, and overflowing water."
+          },
+          {
+            "question": "What types of gutters do you offer?",
+            "answer": "We offer a variety of gutter styles and materials, including seamless aluminum gutters, copper gutters, and vinyl gutters."
+          }
+        ]
+      },
+      {
+        "slug": "tile-roofing",
+        "name": "Tile Roofing",
+        "shortDescription": "Durable and beautiful tile roofing solutions for Las Vegas homes.",
+        "description": "Tile roofing is a popular choice for Las Vegas homes due to its durability, energy efficiency, and aesthetic appeal. Roof It Right specializes in tile roofing installation, repair, and maintenance. We offer a wide selection of tile styles and colors to complement your home's architecture. \n\nTile roofs are highly resistant to heat, fire, and wind, making them an ideal choice for the harsh Las Vegas climate. They also have a long lifespan, often lasting 50 years or more with proper maintenance. Our experienced team will ensure your tile roof is properly installed and maintained, providing lasting protection for your home. \n\nChoose Roof It Right for expert tile roofing services and enhance the beauty and value of your home.",
+        "process": [
+          "Step 1: Consultation and tile selection",
+          "Step 2: Professional tile roof installation",
+          "Step 3: Quality control inspection",
+          "Step 4: Ongoing maintenance and repair services"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Excellent heat resistance and energy efficiency",
+          "Enhanced curb appeal",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does a tile roof last?",
+            "answer": "With proper maintenance, a tile roof can last 50 years or more."
+          },
+          {
+            "question": "Are tile roofs expensive?",
+            "answer": "Tile roofs typically have a higher upfront cost than asphalt shingles, but their longevity and durability make them a worthwhile investment."
+          },
+          {
+            "question": "Do you offer tile roof repair services?",
+            "answer": "Yes, we offer tile roof repair services to address damaged or missing tiles."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable commercial roofing services for businesses in the Las Vegas area.",
+        "description": "Roof It Right provides comprehensive commercial roofing services for businesses in Las Vegas. We understand the unique needs of commercial properties and offer tailored solutions to meet your specific requirements. From new roof installations to repairs and maintenance, we have the expertise to handle any commercial roofing project. \n\nWe work with a variety of commercial roofing materials, including TPO, PVC, and modified bitumen. Our experienced team will ensure your commercial roof is properly installed and maintained, providing lasting protection for your business. We also offer preventative maintenance programs to extend the life of your commercial roof and prevent costly repairs. \n\nProtect your business with reliable commercial roofing services from Roof It Right.",
+        "process": [
+          "Step 1: Commercial roof assessment and consultation",
+          "Step 2: Customized roofing solution and proposal",
+          "Step 3: Professional installation or repair",
+          "Step 4: Ongoing maintenance and support"
+        ],
+        "benefits": [
+          "Protect your business from the elements",
+          "Extend the life of your commercial roof",
+          "Reduce energy costs",
+          "Maintain a professional appearance"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing materials do you work with?",
+            "answer": "We work with a variety of commercial roofing materials, including TPO, PVC, and modified bitumen."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance programs to extend the life of your commercial roof and prevent costly repairs."
+          },
+          {
+            "question": "How long does a commercial roof last?",
+            "answer": "The lifespan of a commercial roof depends on the type of materials used and the level of maintenance it receives. We can provide an estimated lifespan during the consultation process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Henderson",
+        "slug": "henderson-nv",
+        "state": "NV",
+        "content": "Roof It Right is proud to provide top-quality roofing services to the residents and businesses of Henderson, Nevada. As one of the fastest-growing cities in the Las Vegas Valley, Henderson boasts a diverse range of housing styles, particularly master-planned communities developed from the 1990s through the present day. We understand the specific roofing needs of these communities, from tile roofs common in newer developments to the maintenance and repair of aging roofs in established neighborhoods.\n\nOur team is experienced in dealing with the challenges posed by the extreme Henderson climate. With summer temperatures frequently exceeding 115°F, your roof endures intense heat and UV exposure. We use durable materials and proven techniques to ensure your roof can withstand the harsh desert environment, providing lasting protection for your home or business. Whether you need a roof inspection, repair, or complete replacement, Roof It Right is here to serve you.",
+        "localContext": "Henderson is known for its master-planned communities, family-friendly atmosphere, and proximity to outdoor recreation areas like Lake Mead.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Boulder City"
+        ]
+      },
+      {
+        "city": "North Las Vegas",
+        "slug": "north-las-vegas-nv",
+        "state": "NV",
+        "content": "Roof It Right is dedicated to providing exceptional roofing services to the residents and businesses of North Las Vegas, Nevada. Known for its affordable newer construction and diverse community, North Las Vegas presents unique roofing needs. We specialize in working with the roofing materials commonly found in this area, ensuring quality workmanship and long-lasting protection for your property.\n\nThe extreme summer heat, with temperatures soaring above 115°F, takes a toll on roofs in North Las Vegas. Roof It Right uses advanced roofing materials and techniques to combat the effects of intense sun and heat, preventing premature wear and tear. From routine maintenance to emergency repairs and complete roof replacements, we are committed to delivering reliable and affordable roofing solutions.",
+        "localContext": "North Las Vegas offers affordable housing options and a growing business sector, making it a vibrant part of the Las Vegas Valley.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Sunrise Manor",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Summerlin",
+        "slug": "summerlin-nv",
+        "state": "NV",
+        "content": "Roof It Right is proud to offer comprehensive roofing services to the discerning homeowners and businesses of Summerlin, Nevada. As an upscale master-planned community developed from the 1990s to the present, Summerlin features a wide array of architectural styles and roofing materials. We have extensive experience working with the diverse roofing systems found throughout Summerlin, ensuring that your roof complements the aesthetic appeal of your property while providing superior protection.\n\nThe intense summer heat, with temperatures exceeding 115°F, presents a significant challenge to roofs in Summerlin. Roof It Right employs high-performance roofing materials and expert installation techniques to withstand the harsh desert climate. Whether you require a roof inspection, repair, or a complete roof replacement, we are committed to delivering exceptional service and lasting value.",
+        "localContext": "Summerlin is an upscale master-planned community known for its beautiful homes, parks, and proximity to Red Rock Canyon.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Spring Valley",
+          "Paradise"
+        ]
+      },
+      {
+        "city": "Las Vegas",
+        "slug": "las-vegas-nv",
+        "state": "NV",
+        "content": "Roof It Right is your trusted roofing partner in Las Vegas, Nevada, offering a complete range of roofing services for residential and commercial properties. From the historic neighborhoods of downtown to the modern developments in the suburbs, we understand the unique roofing needs of Las Vegas residents. Our team is equipped to handle any roofing project, from minor repairs to complete replacements.\n\nThe extreme Las Vegas climate, with scorching summers and occasional monsoon storms, demands durable and reliable roofing systems. Roof It Right uses high-quality materials and expert craftsmanship to ensure your roof can withstand the elements and provide lasting protection for your property. We are committed to delivering exceptional service and customer satisfaction throughout Las Vegas.",
+        "localContext": "Las Vegas is a vibrant city known for its entertainment, casinos, and diverse neighborhoods.",
+        "nearbyAreas": [
+          "Paradise",
+          "Spring Valley",
+          "North Las Vegas"
+        ]
+      },
+      {
+        "city": "Paradise",
+        "slug": "paradise-nv",
+        "state": "NV",
+        "content": "Roof It Right proudly serves the Paradise, Nevada area, providing expert roofing solutions for homes and businesses. As the home to the Las Vegas Strip and McCarran International Airport, Paradise presents a diverse range of roofing needs, from commercial buildings to residential properties. We offer comprehensive roofing services, including inspections, repairs, and replacements, tailored to meet the specific needs of our clients.\n\nThe intense heat and occasional desert storms can take a toll on roofs in Paradise. Roof It Right uses high-quality materials and proven techniques to ensure your roof can withstand the elements and provide lasting protection. We are committed to delivering exceptional service and customer satisfaction throughout the Paradise area.",
+        "localContext": "Paradise is an unincorporated town that is home to the Las Vegas Strip, McCarran International Airport, and the University of Nevada, Las Vegas (UNLV).",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Winchester",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Spring Valley",
+        "slug": "spring-valley-nv",
+        "state": "NV",
+        "content": "Roof It Right is dedicated to providing top-notch roofing services to the residents and businesses of Spring Valley, Nevada. As a diverse and growing community, Spring Valley presents a variety of roofing styles and needs. We specialize in working with all types of roofing materials, ensuring quality workmanship and lasting protection for your property.\n\nThe extreme summer heat, with temperatures frequently exceeding 115°F, can cause significant damage to roofs in Spring Valley. Roof It Right uses advanced roofing materials and techniques to combat the effects of intense sun and heat, preventing premature wear and tear. From routine maintenance to emergency repairs and complete roof replacements, we are committed to delivering reliable and affordable roofing solutions.",
+        "localContext": "Spring Valley is a large, diverse community located west of the Las Vegas Strip.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Summerlin",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Sunrise Manor",
+        "slug": "sunrise-manor-nv",
+        "state": "NV",
+        "content": "Roof It Right is pleased to offer exceptional roofing services to the residents and businesses of Sunrise Manor, Nevada. Known for its established neighborhoods and close proximity to Nellis Air Force Base, Sunrise Manor presents unique roofing requirements. We specialize in working with the roofing materials commonly found in this area, ensuring quality workmanship and long-lasting protection for your property.\n\nThe extreme summer heat, with temperatures soaring above 115°F, takes a toll on roofs in Sunrise Manor. Roof It Right uses advanced roofing materials and techniques to combat the effects of intense sun and heat, preventing premature wear and tear. From routine maintenance to emergency repairs and complete roof replacements, we are committed to delivering reliable and affordable roofing solutions.",
+        "localContext": "Sunrise Manor is an unincorporated town located east of Las Vegas and is home to many military families due to its proximity to Nellis Air Force Base.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "North Las Vegas",
+          "Whitney"
+        ]
+      },
+      {
+        "city": "Enterprise",
+        "slug": "enterprise-nv",
+        "state": "NV",
+        "content": "Roof It Right is committed to providing reliable and affordable roofing services to the residents and businesses of Enterprise, Nevada. As a rapidly growing community in the southern Las Vegas Valley, Enterprise features a mix of residential and commercial properties with diverse roofing needs. We offer a full range of roofing services, from inspections and repairs to complete replacements, tailored to meet the specific needs of our clients.\n\nThe extreme heat and occasional desert storms can be hard on roofs in Enterprise. Roof It Right uses high-quality materials and proven techniques to ensure your roof can withstand the elements and provide lasting protection. We are dedicated to delivering exceptional service and customer satisfaction throughout the Enterprise area.",
+        "localContext": "Enterprise is a rapidly growing unincorporated town located south of Las Vegas.",
+        "nearbyAreas": [
+          "Spring Valley",
+          "Henderson",
+          "Paradise"
+        ]
+      },
+      {
+        "city": "Whitney",
+        "slug": "whitney-nv",
+        "state": "NV",
+        "content": "Roof It Right proudly serves the Whitney, Nevada area, offering expert roofing solutions for homes and businesses. Whitney, located east of Las Vegas, features a mix of residential properties with varying roofing needs. We provide comprehensive roofing services, including inspections, repairs, and replacements, tailored to meet the specific requirements of our clients.\n\nThe intense summer heat and occasional desert storms can negatively impact roofs in Whitney. Roof It Right uses high-quality materials and proven techniques to ensure your roof can withstand the elements and provide lasting protection. We are dedicated to delivering exceptional service and customer satisfaction throughout the Whitney area.",
+        "localContext": "Whitney is an unincorporated town located east of Las Vegas, known for its residential neighborhoods.",
+        "nearbyAreas": [
+          "Sunrise Manor",
+          "Henderson",
+          "Las Vegas"
+        ]
+      },
+      {
+        "city": "Winchester",
+        "slug": "winchester-nv",
+        "state": "NV",
+        "content": "Roof It Right is pleased to offer exceptional roofing services to the residents and businesses of Winchester, Nevada. As the location of the Las Vegas Convention Center and many hotels, Winchester presents a unique mix of commercial and residential roofing needs. We are experienced in handling all types of roofing projects, from minor repairs to complete replacements.\n\nThe extreme Las Vegas climate, with scorching summers and occasional monsoon storms, demands durable and reliable roofing systems. Roof It Right uses high-quality materials and expert craftsmanship to ensure your roof can withstand the elements and provide lasting protection for your property. We are committed to delivering exceptional service and customer satisfaction throughout Winchester.",
+        "localContext": "Winchester is an unincorporated town that houses the Las Vegas Convention Center and many hotels and businesses.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Sunrise Manor"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "I had a leak in my roof after a heavy rainstorm. Roof It Right came out quickly and fixed the problem. They were professional and efficient, and the price was very reasonable. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "My gutters were completely clogged with leaves and debris. Roof It Right cleaned them out thoroughly and now the water is flowing freely. They did a great job and the price was fair.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We needed a full roof replacement on our older Summerlin home. Roof It Right provided a detailed quote, explained all the options, and completed the work on time and within budget. Very happy with the new roof!",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I was buying a house in Henderson and wanted to get a roof inspection before closing. Roof It Right provided a thorough inspection report and identified some potential issues that I was able to address with the seller. Great service!",
+        "date": "2025-06-10"
+      },
+      {
+        "name": "Karen P.",
+        "rating": 4,
+        "service": "Tile Roofing",
+        "text": "We had some broken tiles on our roof after the extreme heat last summer. Roof It Right was able to match the existing tiles and replace them quickly. The repair looks seamless.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Roof It Right provided excellent service for our commercial building. Their team was professional, communicative, and completed the project on schedule. I highly recommend their commercial roofing services.",
+        "date": "2025-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Roof It Right | Vegas Roofing",
+        "description": "Reliable roofing services in Las Vegas. Expert roof repair, replacement, & inspections. Free estimates. Call us today!"
+      },
+      "about": {
+        "title": "About Roof It Right - Las Vegas",
+        "description": "Learn about Roof It Right's commitment to quality roofing in Las Vegas. Experienced team, local expertise, & customer satisfaction."
+      },
+      "services": {
+        "title": "Roofing Services - Las Vegas",
+        "description": "Comprehensive roofing services in Las Vegas: repair, replacement, inspections, gutters. Protect your home with Roof It Right."
+      },
+      "contact": {
+        "title": "Contact Roof It Right - Las Vegas",
+        "description": "Contact Roof It Right for a free roofing estimate in Las Vegas. Call or email us today!"
+      },
+      "reviews": {
+        "title": "Roof It Right Reviews - Las Vegas",
+        "description": "Read what our satisfied customers are saying about Roof It Right's roofing services in Las Vegas. See why we're the trusted choice."
+      },
+      "service-areas": {
+        "title": "Roofing Service Areas - Las Vegas",
+        "description": "Roof It Right provides roofing services throughout the Las Vegas Valley. See our service areas and get a free estimate."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "tile-roofing": "/images/service-tile-roofing.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-roofing": {
+        "src": "/images/service-tile-roofing.webp",
+        "srcset": "/images/service-tile-roofing-400w.webp 400w, /images/service-tile-roofing-800w.webp 800w, /images/service-tile-roofing-1200w.webp 1200w, /images/service-tile-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
